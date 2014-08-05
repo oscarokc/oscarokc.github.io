@@ -1,0 +1,48 @@
+/*normaliza  comentario  */
+
+body
+{
+	font-size: 16px;
+	border:1px solid black;
+	margin: 0 auto 0 auto;
+	text-align: center;
+	background: gray;
+}
+#menu
+{
+	margin: 0;
+	padding:0;
+	list-style-type: none;
+	text-align: center;
+}
+#menu li
+{
+	display: inline-block;
+	padding: 1em; /* rem = tamaño body em=mas cercan*/
+	border: 1px	solid green;
+	width: 150px;
+	background: white;
+
+}
+#home
+{
+	background: red;
+}
+#servicio
+{
+	background: blue;
+}
+#quienes
+{
+	background: yellow;
+}
+#contacto
+{
+	background: green;
+}
+.comun
+{
+	height: 700px;
+	border: 1px solid white;
+
+}
